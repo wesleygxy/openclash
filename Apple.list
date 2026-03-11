@@ -1557,6 +1557,8 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,myicloud.net
 DOMAIN-SUFFIX,mylcloud.net
 DOMAIN-SUFFIX,wwwicloud.com
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,swcdn.apple.com
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
